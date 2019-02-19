@@ -1,0 +1,1 @@
+Пример измерване с job triger и procedure с 
