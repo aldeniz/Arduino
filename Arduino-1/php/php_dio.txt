@@ -1,0 +1,7 @@
+https://windows.php.net/downloads/pecl/releases/dio/0.1.0/php_dio-0.1.0-7.2-ts-vc15-x64.zip
+
+Разархивиране на модул php_dio.... в 
+c:\www\php72\ext директория (или посочената в php.ini за extensions)
+
+и добавяне в php.ini на:
+extension=php_dio.dll

@@ -1,0 +1,13 @@
+https://github.com/sqlmapproject/sqlmap/issues/2965
+https://stackoverflow.com/questions/48233806/mysql-install-the-udf-library-mysqludf-sys-on-a-windows-server-2016
+За компилиране, но е за Линукс:	https://github.com/mysqludf/lib_mysqludf_sys
+https://github.com/rapid7/metasploit-framework/tree/master/data/exploits/mysql
+https://osandamalith.com/2018/02/11/mysql-udf-exploitation/
+
+https://stackoverflow.com/questions/1467369/invoking-a-php-script-from-a-mysql-trigger
+https://dev.mysql.com/doc/refman/5.5/en/trigger-syntax.html
+
+Events:
+https://stackoverflow.com/questions/12726636/how-can-i-create-a-job-or-event-in-mysql
+http://www.mysqltutorial.org/mysql-triggers/working-mysql-scheduled-event/
+https://dev.mysql.com/doc/refman/8.0/en/create-event.html

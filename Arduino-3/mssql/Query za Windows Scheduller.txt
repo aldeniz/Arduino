@@ -1,0 +1,1 @@
+SQLCMD -S RASHIDOV10\SQLDEVELOP -U ibs -P 123456 -i c:\www\apache24\htdocs\is\arduino\sqljob.sql
