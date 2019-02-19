@@ -1,0 +1,1 @@
+Пример за измерване с job от Win Scheduler
